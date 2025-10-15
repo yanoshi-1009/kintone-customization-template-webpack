@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.28.4",
-    "@kintone/rest-api-client": "^5.7.5",
+    "@kintone/rest-api-client": "^6.0.0",
     "axios": "^1.12.2",
     "core-js-pure": "^3.46.0",
     "dayjs": "^1.11.18",
